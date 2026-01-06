@@ -213,7 +213,7 @@ svg .st10{
 }
 @media (max-width: 720px) {
 .buttom{
-    height: 25% !important;
+    /*height: 25% !important;*/
 }
 .main{
 }
@@ -271,4 +271,5 @@ body{
 
 .maksob{
     width: 20vw;
+
 }
